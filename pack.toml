@@ -1,0 +1,13 @@
+name = "QuiltWiz"
+author = "Nemo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a850beb3eb0a5a8ae635d5c069feb52ffb2a912b4d9f191c503903eb2248c7d2"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.16.1"

@@ -1,0 +1,14 @@
+name = "Red Bits"
+filename = "red-bits-1.13.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6AMJBvu/versions/1.13.2/red-bits-1.13.2.jar"
+hash-format = "sha1"
+hash = "44de56ba294e9ff737575316d5d965eccd5a14e3"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "u6AMJBvu"
+version = "o0u3dB84"
