@@ -256,11 +256,6 @@ hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
-file = "mods/malum-quilt.pw.toml"
-hash = "b5d5178d969e22148d074f7cf3f516961d00100aaa80dd986e89c977f842f32a"
-metafile = true
-
-[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "773f8e897a0a3b196383e5c4552643fa88708cd02dbd18be4396d4c63557781e"
 metafile = true
