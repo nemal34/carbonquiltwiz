@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ef2f98e5477d6b3400cdd292c01ca6a8a2d038421ef142be83658663ecb8a06e"
+hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
 metafile = true
 
 [[files]]
@@ -100,13 +100,18 @@ hash = "eb65e1d2cbc12e600830572fa297f01a7d065484af541feb563da1756f32be46"
 metafile = true
 
 [[files]]
+file = "mods/botania-fabric.pw.toml"
+hash = "172f4695b2d16647e714b6afffd5e900a705474b3f1d216b06e1ba7568b86b93"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "60ddaabceb126b260d122c1eb927be91d4907bee4f78fe810db2ce50ed1ad11a"
 metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "edaa166c7eaf775d7c8bd309eaac83ed386bd68b811ab4ef54e6e0ea98747dae"
+hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
 metafile = true
 
 [[files]]
@@ -196,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "5eb43c0791caf0fc03ccbbadf3d68c2c17b3498062f20fb4c516cdcf3dbdd46b"
+hash = "2c8c0f47e23586c8379c4f4f260812391137718e2f5333c5f0c3c0e9d34f88f5"
 metafile = true
 
 [[files]]
 file = "mods/expanded-delight.pw.toml"
-hash = "7fdde2a2d9d7853c48d672bfe2a43768c6245501e051597f48d5d487cfa83286"
+hash = "01d2a81bdec85afa5cb4e43ba6ac10837dcf9606a125f98b43f8586c70c5ff0b"
 metafile = true
 
 [[files]]
@@ -252,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/horseinboat.pw.toml"
 hash = "2639d0134e2f38a08e48471631feda277dd8a8ca16dd2d52aeff495c2e66d4c0"
+metafile = true
+
+[[files]]
+file = "mods/incorporeal-3.pw.toml"
+hash = "50a72b72be170ee7341b579c53e67380bbe728a38ec508b9cbc5b00eb189f71c"
 metafile = true
 
 [[files]]
@@ -331,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "706ac9854947d5d6552d2682e3cc572b03dca9a67f7bd9a65d74ae7392f098ca"
+hash = "0da9aa0289aa3c657d016977b00a241ce1102e054055ada246163f4748050c0a"
 metafile = true
 
 [[files]]
@@ -351,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "6b98e8f2e83aee04185a1e4a60560510ec484d8dedbb96dcb4a2d5b2aeb89ec6"
+hash = "2d34728267efdf73da2f3f844e9e577b7939ab508e56c44c267613406c541826"
 metafile = true
 
 [[files]]
