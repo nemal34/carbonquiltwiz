@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "e36054ef110c3a29780b2c362334880d07ccd02eeb78251d60446d4bb0181029"
+hash = "83a69be727d30e2451c9a44aa59598b7935ed40d9fc87d27dfde3b048101c832"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
+hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
 metafile = true
 
 [[files]]
@@ -370,6 +370,11 @@ hash = "2c9ff78bf4460ef80e6fcf3fe4768fe2073f988b6f4c3f9aadeb56c5c675b50e"
 metafile = true
 
 [[files]]
+file = "mods/nether-chest.pw.toml"
+hash = "e28aab516f05a2a8f35f11319875261ec9c447275b3fa3f7e6da8bd67324d55b"
+metafile = true
+
+[[files]]
 file = "mods/nmuk.pw.toml"
 hash = "68782b22da1dd16606e6efe706a2b2d8f25f980db4b3d66f201d1a51d64c92b2"
 metafile = true
@@ -386,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "cd2a4b8aa46685312a00d7e610528cde049880ae93acb22b9bb8303bf8802f2b"
+hash = "f6686fc9bcc571db2ee5eed32803de4173a50c408c5f40d75f5b3071f8252ef2"
 metafile = true
 
 [[files]]
@@ -411,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "5ab6635f62ec5791646c328e88655a7b34eb4c296db39466fae61135fd491bc2"
+hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
 metafile = true
 
 [[files]]
