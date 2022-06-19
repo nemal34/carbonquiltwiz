@@ -1,0 +1,14 @@
+name = "megane"
+filename = "megane-7.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/7.7.2/megane-7.7.2.jar"
+hash-format = "sha1"
+hash = "c6d988cb6b7c36f92dd3df25ce15a0794d3d5373"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ZNk5S5U6"
+version = "pxlKmKnU"
