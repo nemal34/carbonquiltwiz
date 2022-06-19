@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-delight.pw.toml"
-hash = "e6142ffd1afe9c43d20d2287f10d513610df9de361a168271f864dccfc94937b"
+hash = "3ad28215bdf1399ee45f665a2134072e6482171d59c8fd1ceefc89855301a83d"
 metafile = true
 
 [[files]]
