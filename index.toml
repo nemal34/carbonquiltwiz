@@ -215,6 +215,11 @@ hash = "bc859d5d17706a14eff618bae19efe135954a56c5afc963a84a6591ea468cd5e"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "52330b5fee7b7fe3392e619a219b4dcb7c8ebde85a6c0c0482a4ea57e000307c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
 metafile = true
@@ -266,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "d09a72ffe74ebbe97640cd3c2007736f8a8778497d0a099d96dd5bee0c0f9b49"
+hash = "a4f19f7a88f9969ec52613417884423dd1da936adff5268e1774183164203463"
 metafile = true
 
 [[files]]
@@ -365,6 +370,11 @@ hash = "6c63238004c4a723805f59be898756cfb1b297a48fc4d002b2f1c8379f891032"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "e6aac009996305356f42bd936da07998a086987a503e5824d293a7c0b3c9cc09"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
@@ -406,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "fb4243c78a8bac1273c3dda72dd7b71dbde8d7a1e1b9e6457103962da68216d9"
+hash = "aa92dfab3e6b0836aaf9bc132524e8521e9f710b56f9f581f7bf97ca6e691061"
 metafile = true
 
 [[files]]
@@ -431,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c90331a5ed2c61bd8e45157777bc15fbe9e2e582bb05405df860a98c3e1b2386"
+hash = "31005db8e3a8f22b90ab3bcb85fc602c0dd017212bb7e9befe628fd632da740a"
 metafile = true
 
 [[files]]
