@@ -265,8 +265,8 @@ hash = "f5fe536e5ed5c4f67a8ecf1d98591e0913b87bcbfe6b08d9ea1adce732359204"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes.pw.toml"
-hash = "863e29f4a34a9f229bf36d43c1f10ecec9c06ba8763a9e28123961da893941dc"
+file = "mods/friends-and-foes-quilt.pw.toml"
+hash = "43082e95633a2e79a46b04acdd51769073c1ba45dd7e29a8490f3269ad8ce2b6"
 metafile = true
 
 [[files]]
@@ -400,6 +400,11 @@ hash = "68782b22da1dd16606e6efe706a2b2d8f25f980db4b3d66f201d1a51d64c92b2"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "21a97d8ea7a2015354259ac446194002beb6c5270939c5411796a8c40b07473d"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "a2d5078d4a4ecf2142438b971b0632a7e191294cea6ca46bf25c2f90f30cb0d1"
 metafile = true
@@ -441,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "31005db8e3a8f22b90ab3bcb85fc602c0dd017212bb7e9befe628fd632da740a"
+hash = "41031b0841f3c77b90c615862f596730fc5965dd67c38a499543bbe469c07c76"
 metafile = true
 
 [[files]]
