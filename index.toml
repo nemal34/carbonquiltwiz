@@ -330,6 +330,11 @@ hash = "304073cded20a12559a95bb7352d0d90b5e6615e8035ac8a96c84662f33b81ad"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "05d66a75eb6947fe1d74479221572d2d0b5fa347cf126fa2ce9561865602d501"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "dfa5c722d138df87aafa11fee3b7566b0fcff8adf155eed9f478d08436ec9f9f"
 metafile = true
