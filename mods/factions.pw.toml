@@ -1,0 +1,14 @@
+name = "Factions"
+filename = "factions-mc1.19-2.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZjwW8Q6n/versions/2.2.0/factions-mc1.19-2.2.0.jar"
+hash-format = "sha1"
+hash = "b4e27f0e38f6d1c8c269e033d76d3d3863e4a866"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ZjwW8Q6n"
+version = "oZZC7j74"

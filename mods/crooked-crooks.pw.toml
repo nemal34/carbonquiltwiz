@@ -1,14 +1,14 @@
 name = "Crooked Crooks"
-filename = "crooked_crooks-3.0.0+1.18.2.jar"
+filename = "crooked_crooks-3.0.0+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DG76dVRB/versions/3.0.0+1.18.2/crooked_crooks-3.0.0%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/DG76dVRB/versions/3.0.0+1.19/crooked_crooks-3.0.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "55ee79b0d542e43bc75ed9c7c71a5b2a42233f84"
+hash = "d4fd7a04fb64b40bcbea283bca86a55039c7aaeb"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "DG76dVRB"
-version = "iYMHoywC"
+version = "cPPFnwt0"

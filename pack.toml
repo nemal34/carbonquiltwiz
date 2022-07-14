@@ -1,4 +1,4 @@
-name = "CarbonQuiltWiz"
+name = "CarbonQuilt 1.19"
 author = "Nemal"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "835393a28b19dc88b8849f65d1eaff86abec34af76fbce8cf377048af048af10"
+hash = "dbb46ef7bba092ddfcfcf67ea2442ea0215c9d12e4ddf40e0a85a9535dbd5b57"
 
 [versions]
-minecraft = "1.18.2"
-quilt = "0.16.1"
+minecraft = "1.19"
+quilt = "0.17.1-beta.2"
