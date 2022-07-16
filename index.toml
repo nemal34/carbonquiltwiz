@@ -250,6 +250,11 @@ hash = "ee592d0ee17bcd647333960d15e303ae7fe603194f9e3f069f61ea2486537122"
 metafile = true
 
 [[files]]
+file = "mods/gildedarmor.pw.toml"
+hash = "e59a4899b0c3f9277a153935fe33118b792c51a0b827aba7c973c690e376b7a0"
+metafile = true
+
+[[files]]
 file = "mods/grass-kiss.pw.toml"
 hash = "12617693bff87d99412983127b4b44989e51f33611ee330db484a3e974f09f27"
 metafile = true
@@ -356,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "fbbab6b08ffab24ed1a6c773ab32664398739acd6b5846d676d2b615e2c7b415"
+hash = "46e9cf79b6b2f8ccde895d347302c941f9cc288a4688e294e3e403085e26a312"
 metafile = true
 
 [[files]]
@@ -381,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "abac5084638e76db51e4ce0b456682c78e701517eb561b8037d429ff78ba205c"
+hash = "c5e997ed52882b5f852bfe43ddb04989079242531eac07688850dda41236bd8c"
 metafile = true
 
 [[files]]
@@ -421,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "1651ee5e299d8883a2aaa8956cef6818d8f8686410d83f1d153a944deb650bf2"
+hash = "6a1a561ba4c553e877d7b916645bf17488ac9edea61bb75104ffd3f8a09e091f"
 metafile = true
 
 [[files]]
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2bc3242a6a026024a2048e0051c0efed79d159e72d6ea361da847acbc6f68da5"
+hash = "d16b4b5ad11c01690bccfcef8b4965123d064da7914451654f3cbea7b9005b2f"
 metafile = true
 
 [[files]]
