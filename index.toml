@@ -325,16 +325,6 @@ hash = "7586317e8f493545d692287fb8b5e8a6027772b529d6e2d9ba97c7c09c64b26f"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "116e1dc4df150dc9f858af113e2c05ff3ca96238a9749d8e43d1ee16ef926b0c"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "dfa5b63ce8b543d6089e44396f380546c6a8f7c3bfd3f708676056ef08a6b81f"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "0874da11116ad385ee260ce4215d2ae6b1bc3fca803e57a90e0d83000fb21635"
 metafile = true
@@ -371,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "e6aac009996305356f42bd936da07998a086987a503e5824d293a7c0b3c9cc09"
+hash = "e6de98cb06ebe5cf583572935bf3e3c614849b207b64fec1d203b4b3e8753e50"
 metafile = true
 
 [[files]]
@@ -507,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "dd799fa4aabe1286580f0a7ea137b40716ec47459a14fab532b75e1ab854582c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "cf645e78f3e97c764fedb98e147a764a95cb65b12e11d50260fa1159fbf83ba6"
 metafile = true
 
 [[files]]
