@@ -175,6 +175,11 @@ hash = "109c382c059eb524502143d9271ce79a2e7f9f5b9cd634780687b718bfd025f7"
 metafile = true
 
 [[files]]
+file = "mods/dcwa.pw.toml"
+hash = "d701534aa96de43f644a6c4de9fe2b4ef139894f7a87e0884c39b295b1c32704"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
 metafile = true
