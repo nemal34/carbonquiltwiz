@@ -80,11 +80,6 @@ hash = "8a399348ac3cf537118f171c78e464d83db3df13ce3dbafad1eb5050cb078acf"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "8a399348ac3cf537118f171c78e464d83db3df13ce3dbafad1eb5050cb078acf"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "5ce4fcd19b003dda52008a56f78118dd687abaffb8405399f5deb4c06fa4b30d"
 metafile = true
@@ -145,16 +140,6 @@ hash = "4ed6f98bd55bde1e076f864ba2b3918710ef2ee664ca332fd538c6ca27f280a0"
 metafile = true
 
 [[files]]
-file = "mods/connecteddoors.pw.toml"
-hash = "6b2d266f73dd7c2d03a0fbb039432a32be3378cac25b9633965488daa36e91d2"
-metafile = true
-
-[[files]]
-file = "mods/connecteddoors.pw.toml"
-hash = "6b2d266f73dd7c2d03a0fbb039432a32be3378cac25b9633965488daa36e91d2"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "5ff4e61ba19baca3337f1ff6aa31a6d906d8c30efe8af15dce3f44beb8297d5f"
 metafile = true
@@ -187,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "109c382c059eb524502143d9271ce79a2e7f9f5b9cd634780687b718bfd025f7"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
 metafile = true
 
 [[files]]
@@ -225,11 +215,6 @@ hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
-metafile = true
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "06a94fff81af2163694a46205ddc17acb866e5d0006d7f65ba5531a9d8b8d57c"
 metafile = true
@@ -260,11 +245,6 @@ hash = "a4290de69d82b65783d765d714f7fa9500f61e20523efab532a484cc008277bc"
 metafile = true
 
 [[files]]
-file = "mods/forgetmechunk.pw.toml"
-hash = "f5fe536e5ed5c4f67a8ecf1d98591e0913b87bcbfe6b08d9ea1adce732359204"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
 hash = "43082e95633a2e79a46b04acdd51769073c1ba45dd7e29a8490f3269ad8ce2b6"
 metafile = true
@@ -290,11 +270,6 @@ hash = "e77d82fb0069cf8efb5c35ded083df2106c5e64c6743b5d8d7299d67d9df8bcb"
 metafile = true
 
 [[files]]
-file = "mods/here-be-no-dragons.pw.toml"
-hash = "ee9681db8b278639d01f3f87374f635483f8c42093014cc6d3d3848dc07b89b2"
-metafile = true
-
-[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "8e64e605cb87282d854c4cbc974ff166f3bcd4f989c6eaa511cfa3a82f49d4fc"
 metafile = true
@@ -302,11 +277,6 @@ metafile = true
 [[files]]
 file = "mods/horseinboat.pw.toml"
 hash = "2639d0134e2f38a08e48471631feda277dd8a8ca16dd2d52aeff495c2e66d4c0"
-metafile = true
-
-[[files]]
-file = "mods/incorporeal-3.pw.toml"
-hash = "b2b05a5a95aa2039b183177ab086f1d5e36506ca83be68c8b3d88270743a45fd"
 metafile = true
 
 [[files]]
@@ -477,11 +447,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "93978fc69ca4e6b61acf77ee67b9468bc009a398b7fb9909c1c14291ab60a4fe"
-metafile = true
-
-[[files]]
-file = "mods/vtdownloader.pw.toml"
-hash = "53ffe6cb5a02e24ef8f34475a3ff758945b3f46ec0c93d10cda799a6ae26d1c9"
 metafile = true
 
 [[files]]
