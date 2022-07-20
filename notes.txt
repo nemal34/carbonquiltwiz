@@ -1,7 +1,4 @@
-betterdarkmode
 better-nether-map
 botania
 create
 createplus
-here-be-no-dragons
-modern-dynamics
