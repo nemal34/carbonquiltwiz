@@ -80,11 +80,6 @@ hash = "8a399348ac3cf537118f171c78e464d83db3df13ce3dbafad1eb5050cb078acf"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "8a399348ac3cf537118f171c78e464d83db3df13ce3dbafad1eb5050cb078acf"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "5ce4fcd19b003dda52008a56f78118dd687abaffb8405399f5deb4c06fa4b30d"
 metafile = true
@@ -145,16 +140,6 @@ hash = "4ed6f98bd55bde1e076f864ba2b3918710ef2ee664ca332fd538c6ca27f280a0"
 metafile = true
 
 [[files]]
-file = "mods/connecteddoors.pw.toml"
-hash = "6b2d266f73dd7c2d03a0fbb039432a32be3378cac25b9633965488daa36e91d2"
-metafile = true
-
-[[files]]
-file = "mods/connecteddoors.pw.toml"
-hash = "6b2d266f73dd7c2d03a0fbb039432a32be3378cac25b9633965488daa36e91d2"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "5ff4e61ba19baca3337f1ff6aa31a6d906d8c30efe8af15dce3f44beb8297d5f"
 metafile = true
@@ -187,6 +172,16 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "109c382c059eb524502143d9271ce79a2e7f9f5b9cd634780687b718bfd025f7"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "d701534aa96de43f644a6c4de9fe2b4ef139894f7a87e0884c39b295b1c32704"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
 metafile = true
 
 [[files]]
@@ -225,11 +220,6 @@ hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
-metafile = true
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "06a94fff81af2163694a46205ddc17acb866e5d0006d7f65ba5531a9d8b8d57c"
 metafile = true
@@ -241,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -257,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "a4290de69d82b65783d765d714f7fa9500f61e20523efab532a484cc008277bc"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.pw.toml"
-hash = "f5fe536e5ed5c4f67a8ecf1d98591e0913b87bcbfe6b08d9ea1adce732359204"
 metafile = true
 
 [[files]]
@@ -290,11 +275,6 @@ hash = "e77d82fb0069cf8efb5c35ded083df2106c5e64c6743b5d8d7299d67d9df8bcb"
 metafile = true
 
 [[files]]
-file = "mods/here-be-no-dragons.pw.toml"
-hash = "ee9681db8b278639d01f3f87374f635483f8c42093014cc6d3d3848dc07b89b2"
-metafile = true
-
-[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "8e64e605cb87282d854c4cbc974ff166f3bcd4f989c6eaa511cfa3a82f49d4fc"
 metafile = true
@@ -302,11 +282,6 @@ metafile = true
 [[files]]
 file = "mods/horseinboat.pw.toml"
 hash = "2639d0134e2f38a08e48471631feda277dd8a8ca16dd2d52aeff495c2e66d4c0"
-metafile = true
-
-[[files]]
-file = "mods/incorporeal-3.pw.toml"
-hash = "b2b05a5a95aa2039b183177ab086f1d5e36506ca83be68c8b3d88270743a45fd"
 metafile = true
 
 [[files]]
@@ -322,16 +297,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "7586317e8f493545d692287fb8b5e8a6027772b529d6e2d9ba97c7c09c64b26f"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "116e1dc4df150dc9f858af113e2c05ff3ca96238a9749d8e43d1ee16ef926b0c"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "dfa5b63ce8b543d6089e44396f380546c6a8f7c3bfd3f708676056ef08a6b81f"
 metafile = true
 
 [[files]]
@@ -361,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/megane.pw.toml"
-hash = "3cabd43713c734af3df4908861f6dd78718643ad31db2ca61e04320f010953bd"
+hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
 metafile = true
 
 [[files]]
@@ -371,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "e6aac009996305356f42bd936da07998a086987a503e5824d293a7c0b3c9cc09"
+hash = "e6de98cb06ebe5cf583572935bf3e3c614849b207b64fec1d203b4b3e8753e50"
 metafile = true
 
 [[files]]
@@ -386,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "7b698467c51828a5eb22da876bfdae2d9d1981ed2618555875632166fc0e1310"
+hash = "c00114ebbbdf5b001d7a81f9508a6c6675fab5e7cff89de3cc7d763e7ab33427"
 metafile = true
 
 [[files]]
@@ -446,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "41031b0841f3c77b90c615862f596730fc5965dd67c38a499543bbe469c07c76"
+hash = "fe0ace78407e860576b7c21703e2567896214f12e98a7dfe4a9a63db0c79577a"
 metafile = true
 
 [[files]]
@@ -490,11 +455,6 @@ hash = "93978fc69ca4e6b61acf77ee67b9468bc009a398b7fb9909c1c14291ab60a4fe"
 metafile = true
 
 [[files]]
-file = "mods/vtdownloader.pw.toml"
-hash = "53ffe6cb5a02e24ef8f34475a3ff758945b3f46ec0c93d10cda799a6ae26d1c9"
-metafile = true
-
-[[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "5478b1fd67934a32aa08d7d67f70bd9fcdf8b3827f7cdd7a2b7a89babb8b289c"
 metafile = true
@@ -507,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "dd799fa4aabe1286580f0a7ea137b40716ec47459a14fab532b75e1ab854582c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "cf645e78f3e97c764fedb98e147a764a95cb65b12e11d50260fa1159fbf83ba6"
 metafile = true
 
 [[files]]
