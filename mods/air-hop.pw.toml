@@ -1,0 +1,13 @@
+name = "Air Hop"
+filename = "AirHop-v4.0.0-1.19-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g1eaCZgs/versions/v4.0.0-1.19-Fabric/AirHop-v4.0.0-1.19-Fabric.jar"
+hash-format = "sha1"
+hash = "d86e7fc3a1ec3d66a260ace9ca7c443e29a11563"
+
+[update]
+[update.modrinth]
+mod-id = "g1eaCZgs"
+version = "1p8mny3g"

@@ -15,6 +15,11 @@ hash = "79e4567a56a1d4af7a2fe61325d090685268883fbd85b193f9793aece9c6cc1e"
 metafile = true
 
 [[files]]
+file = "mods/air-hop.pw.toml"
+hash = "ccda9765d94f0d40757b9bb2ac4a43fe7dc38a19f54542f5663087011bd29e11"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "913247bbcbf08b1689e3d72256eb8932635388a956e3279ec9b650c493205a56"
 metafile = true
@@ -46,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "957f447037e778eec0de9370cfad61ff804bcc0c67ba52516fe5e6b5fbad2b2f"
+hash = "f1ee36b330c4058ee5f0732d3b85e2622d58c3e422f5bd525d1b1472f365c221"
 metafile = true
 
 [[files]]
@@ -71,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "455c662cc51dec506f65b8989db19650093be75b704f2c674e8375c32e016a58"
+hash = "97b90825ea397eae1dc108b5a9257e3065feacb553e72c019fba62495a72c1d0"
 metafile = true
 
 [[files]]
@@ -200,6 +205,11 @@ hash = "e650e9f1b9fb0adc54eace767decb72980f5a77ddd99e012146cf903fc6d7ee7"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "65c9d09d9ed4a0d3baf7bbd5669dc56ae7431f70cb8dc376bd45810d6503bc53"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fb056d772175c202b054fd2fa32ff8c3f98e618249f1078b8f2c6b24997a0f13"
 metafile = true
@@ -216,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "674b69231bf37773aadd3a03e40288abbf0ea312b6a662b200db488b8942bbd9"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -241,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/frame-api.pw.toml"
-hash = "061c9e60ebb529f31147c5a6c61a1d2eafb40dd9c97ee82fdd56b035b7946c9c"
+hash = "25149cc9696947258bd72d34c400a499afce2844557cbd2910a3b37a4cfccb72"
 metafile = true
 
 [[files]]
@@ -326,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/megane.pw.toml"
-hash = "2219826da2fbb44f37c5eef91059154d55d43dc16a57188fc6376709568908bd"
+hash = "6908b34cedb8e553a711ac918c661ecab9b13768f6b6369c9c0e14e2f0628a4b"
 metafile = true
 
 [[files]]
@@ -336,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
-hash = "304073cded20a12559a95bb7352d0d90b5e6615e8035ac8a96c84662f33b81ad"
+hash = "f89672b5ffcb247fb31e616b4de8f7e8a460802c7826d27a64328f27c190734d"
 metafile = true
 
 [[files]]
@@ -366,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "46e9cf79b6b2f8ccde895d347302c941f9cc288a4688e294e3e403085e26a312"
+hash = "3c8fe731fb71a54ebf7953763c026d8b754d20784c707359287f34afee77a094"
 metafile = true
 
 [[files]]
@@ -391,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "c5e997ed52882b5f852bfe43ddb04989079242531eac07688850dda41236bd8c"
+hash = "87d7dc6ecde7385036a802afd8c593236cf8e60f2479b575d78e5396ae556c04"
 metafile = true
 
 [[files]]
@@ -411,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "20c9880521f1b1d1e6adb45323195b75512b3de52c187868845b593fbe833c9f"
+hash = "39b7b54ac9221d29320c92bf8defa300272f52bba5b64aa1de300e41936a76d3"
 metafile = true
 
 [[files]]
@@ -431,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "6a1a561ba4c553e877d7b916645bf17488ac9edea61bb75104ffd3f8a09e091f"
+hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
 metafile = true
 
 [[files]]
@@ -461,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "abd084a63c3fc923ee86d5dba8e6a11e5ae6b552f183f141475e09b38f035545"
+hash = "9435698f904415f25c5da69bdda36652a720da9841eb74fbac40ce524727a3d7"
 metafile = true
 
 [[files]]
