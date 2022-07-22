@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "89ba21e3753115ddf5670fd1063dac4f620b8ad8748a7702404a62081730f373"
+hash = "402c5ef7a114c1122f11a0f7876895088bf007c6f1c63b86687bad7228bb0d20"
 metafile = true
 
 [[files]]
@@ -400,8 +400,13 @@ hash = "4f033c8165f561c19dd99c3c4a8017dc3cba9f655f6371582f14118a0ec093b4"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "ab209254a04c39a41cd0b18e49823f9a068c7d373148e3db90cebe1b4050ee2b"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
-hash = "87d7dc6ecde7385036a802afd8c593236cf8e60f2479b575d78e5396ae556c04"
+hash = "c61dd05061d7b7887722b1cd33a9df9ac52d7043e03a92a82130703d98dc34f0"
 metafile = true
 
 [[files]]
@@ -411,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "f8784a0fc67a28151c4b19fd6b8aab83cf76843aed4c49be5df6441a3e3c4960"
+hash = "00ad50268c777fc61e4c00c431bb5f898d669b9d86fc1120413884b1233a7105"
 metafile = true
 
 [[files]]
@@ -421,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "39b7b54ac9221d29320c92bf8defa300272f52bba5b64aa1de300e41936a76d3"
+hash = "92c81d5914254195b537545336025a796f895bdc38581863c7cf0b838c53eaa1"
 metafile = true
 
 [[files]]
@@ -436,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "4eac7457b81881fb5e2d38f45800acbc9a249bc27f9b7872c8d035fc619e3f46"
+hash = "9f8e585161de42fe656f5a6f9719ea04d441c05579a46bcea549dbbc2cc723a8"
 metafile = true
 
 [[files]]
@@ -486,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "f1727131f831c6b2e98d561de89bec3ebe3297d4c0b332c246a9a8844d76ec1a"
+hash = "b5d50db3ce635984d6e1070b5789529b12ea9731d13b94db66937ddfa084303d"
 metafile = true
 
 [[files]]
@@ -501,4 +506,4 @@ metafile = true
 
 [[files]]
 file = "notes.txt"
-hash = "6afa7b16f267282aba9fb7901c875eb33a093e28f384726c118af7aa89b95215"
+hash = "a7b706f4c25848385261843c2dfaab54d48ceb21a22aa41da739d2762063b125"
