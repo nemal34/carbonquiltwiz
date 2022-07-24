@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f1ee36b330c4058ee5f0732d3b85e2622d58c3e422f5bd525d1b1472f365c221"
+hash = "f992709d951bbf4d96e0f668ab30a790f3448f1d4da32917053eb6414108e997"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "13189f12fca03470e2bba093e2f70e46e069ed5421ed20a8657cab71d8897c30"
+hash = "604c0f160e9b87dcba237c640e2274f1167ce2551de1e9f656b247f7825cd924"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
-hash = "65c9d09d9ed4a0d3baf7bbd5669dc56ae7431f70cb8dc376bd45810d6503bc53"
+hash = "7c73adfc92144f15dd115ca4ec02b530ac3a3ceae0f523685fc906c22b18ee70"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1f47872fdf0e954fe7dab437208f9c86f10812284aad39c7d3ae8ca13d906b89"
+hash = "0bb78c22f11c00fc867d01c7f5680303e15d4ec3f9669391486d490ed09c4143"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/frame-api.pw.toml"
-hash = "25149cc9696947258bd72d34c400a499afce2844557cbd2910a3b37a4cfccb72"
+hash = "c4f9972cceef602879372b75147570de1a4bc804aad432b8e56e2bc24d487b26"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3271fc1c210bc8c2dcd1cd58d80c683f4f7e6a3077c079920054b4483dcbcb33"
+hash = "6213f3c46f9544b1fd9b62af7a00ce3c7ee75d941ab127757cde2ddad2cc9ac9"
 metafile = true
 
 [[files]]
