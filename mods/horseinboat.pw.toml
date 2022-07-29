@@ -1,14 +1,14 @@
 name = "HorseInBoat"
-filename = "horseinboat-fabric-1.1.2.jar"
+filename = "horseinboat-quilt-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jZ1T46Hr/versions/1.1.2-fabric/horseinboat-fabric-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/jZ1T46Hr/versions/v1.1.3-quilt/horseinboat-quilt-1.1.3.jar"
 hash-format = "sha1"
-hash = "f775a77ab5c17c456f793cdce8cb1515bc63fa2c"
+hash = "0cf5db1c1bc6221651fe808b5979773098920836"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "jZ1T46Hr"
-version = "62kx5kYH"
+version = "6NHHlrqN"

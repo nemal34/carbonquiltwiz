@@ -1,0 +1,14 @@
+name = "🔨 Frame API"
+filename = "frame-fabric-0.26.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dY183GiL/versions/0.26.0+1.19/frame-fabric-0.26.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "f31c9679569140618a4500fe9018c5179b169cc8"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "dY183GiL"
+version = "9RJn72ai"

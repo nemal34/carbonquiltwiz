@@ -1,0 +1,14 @@
+name = "Deep Mob Learning: Refabricated"
+filename = "deepmoblearning-refabricated-0.5.7-BETA-build1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/osuPHzT3/versions/0.5.7-BETA-build1/deepmoblearning-refabricated-0.5.7-BETA-build1.jar"
+hash-format = "sha1"
+hash = "c38909fabb3735ecb8a10c023df486e10d773370"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "osuPHzT3"
+version = "vtXxPjFH"

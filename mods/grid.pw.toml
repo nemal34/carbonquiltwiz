@@ -1,14 +1,14 @@
 name = "Grid"
-filename = "grid-1.18.2-fabric0.47.10-1.6.6.jar"
+filename = "grid-1.19-fabric0.55.3-1.6.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ebxDDOKt/versions/1.18.2-fabric0.47.10-1.6.6/grid-1.18.2-fabric0.47.10-1.6.6.jar"
+url = "https://cdn.modrinth.com/data/ebxDDOKt/versions/1.19-fabric0.55.3-1.6.7/grid-1.19-fabric0.55.3-1.6.7.jar"
 hash-format = "sha1"
-hash = "0b5c786c5ce2ed256acfef1b9bd9b6dbd88112aa"
+hash = "91833e10609c418dfaa082edd924c1f2bd1e93ea"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "ebxDDOKt"
-version = "k7EIHSq2"
+version = "zXyLLv2H"
