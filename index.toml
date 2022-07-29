@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "7495abb08e7df662bf47a549c10d7833d2365bbf375b20136c1e09c0c21a9765"
+hash = "31c09fc1bf4905287aa153fbe587f2e5127384b5a5ef74452fb3f5ec34914076"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "647c853be12135d69731a79e96e56c9ebef01f255a5e456b73ff2e954e0b1355"
+hash = "e796dd2bc1f08dad13221c0605b2002686de294d9ce16e627212e0bd101c9b01"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "227d5fb4edfae4f5692879c81ed765b23af1f1e765957d52b2ba9fb065f04b55"
+hash = "07775763b441c786026697bf644d1e7700505f2f1cb660e4656059a95b4c6c2a"
 metafile = true
 
 [[files]]
@@ -172,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "402c5ef7a114c1122f11a0f7876895088bf007c6f1c63b86687bad7228bb0d20"
+metafile = true
+
+[[files]]
+file = "mods/deep-mob-learning-refabricated.pw.toml"
+hash = "ae760119c7fbfa6fc783649798728fdbd0a72fd16f9686eeafd296a97bcbfe78"
 metafile = true
 
 [[files]]
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0bb78c22f11c00fc867d01c7f5680303e15d4ec3f9669391486d490ed09c4143"
+hash = "ae54c82d39dea5ccd88acc8464153714ca8244db47669705a61e1dd6c5448c1f"
 metafile = true
 
 [[files]]
@@ -246,12 +251,12 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "6740ed944875ddd29d44b38bb88fd5050f600d44ff30ff3d553cbb9394254d8c"
+hash = "501c8e33fedba5bc790ae657a7bb96f5551d7aa74de92dec7b334dba64443fe2"
 metafile = true
 
 [[files]]
 file = "mods/frame-api.pw.toml"
-hash = "c4f9972cceef602879372b75147570de1a4bc804aad432b8e56e2bc24d487b26"
+hash = "78be6cef5d30b850dfc77cf614e358b172d7eb9d438f7fc646fe82b49d3defda"
 metafile = true
 
 [[files]]
@@ -306,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9870d86c56f25115c79ade562b9605c98af9b0b1ea13d3e93c4e8390be52f5b0"
+hash = "c863b8a55388fede1372d5528c3a5a0a399f7cd7137856a3b172806b84a45b5f"
 metafile = true
 
 [[files]]
@@ -376,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "3c8fe731fb71a54ebf7953763c026d8b754d20784c707359287f34afee77a094"
+hash = "e442c1aa1afc4a4aaa9d4160aa3d3e841db945fe1894fb65563d4cb0203ad9ed"
 metafile = true
 
 [[files]]
@@ -401,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ab209254a04c39a41cd0b18e49823f9a068c7d373148e3db90cebe1b4050ee2b"
+hash = "1f812c7fb43d0c560955759e81adfeb534dc35a48fdd2341b602154465c02e90"
 metafile = true
 
 [[files]]
@@ -426,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "92c81d5914254195b537545336025a796f895bdc38581863c7cf0b838c53eaa1"
+hash = "3b844af49d5b0acd4186811e038c5b220201608f028ad1bd2fb23316c09ea6db"
 metafile = true
 
 [[files]]
@@ -460,6 +465,11 @@ hash = "c429a2b5d2a8e85472f4625c786fa407ea80cfe9ab8d9aedbbf2a00f0a7467d8"
 metafile = true
 
 [[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "2d282dbbe51764b3e64c02c67ee7de0a53bd3815493af81d795d76a1614ebee6"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "5b02ff4b479157c4fcce8582b29c193583d96606296fadcfe0e67c65c5780bf5"
 metafile = true
@@ -471,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "7546192a8fd2f45b347a5f5725008fc95d686dcb8a06f0c235dfd15f33d3d2b6"
+hash = "5b3cdd31e3de14800b7b5c2ac26dea97db16e1e1708bc96272ca1d40e5b42d98"
 metafile = true
 
 [[files]]
@@ -491,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b5d50db3ce635984d6e1070b5789529b12ea9731d13b94db66937ddfa084303d"
+hash = "474ab59f0c5f5f2e25fd0a569918281cc30182f552e965f2be7557d6ca4a00e1"
 metafile = true
 
 [[files]]
